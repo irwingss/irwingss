@@ -9,7 +9,7 @@
 - ⭐️ &nbsp; Learning more about ML Algorithms and Artificial Intelligence in Ecoinformatics applications.
 - ✍️ &nbsp; Applying for my postgraduate studies abroad.
 
-<h3> 🛠 &nbsp;My Stack</h3>
+<h3> 🛠 &nbsp;My fun</h3>
 
 - 💻 &nbsp;
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
@@ -32,7 +32,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Let's Stay in Touch</h3>
 
 <p align="center">
 <a href="https://www.brackinstitute.com/"><img alt="My Company" src="https://img.shields.io/badge/Website-www.brackinstitute.com-blue?style=flat-square&logo=google-chrome"></a>
