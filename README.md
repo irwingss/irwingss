@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/irwingss/irwingss/main/banner%20completo.png">
 
-<h1> Hi! I'm Irwing.</h2>
+<h1> Hi! I'm Irwing</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
