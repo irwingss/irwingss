@@ -27,7 +27,7 @@
 
 <a href="https://github.com/irwingss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irwingss&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwingss&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwingss&theme=radical&layout=compact&langs_count=8" />
 </a>
 
 <br/>
