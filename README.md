@@ -13,8 +13,8 @@
 
 - 💻 &nbsp;
   ![R (Statistics)](https://img.shields.io/badge/-R-ffffff?style=flat&logo=R&logoColor=276DC3)
-  ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown)
-  ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown&logoColor=6398c7)
+  ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=873dc4)
   ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)
   ![RStudio](https://img.shields.io/badge/-RStudio-ffffff?style=flat&logo=rstudio)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)
