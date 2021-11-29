@@ -11,14 +11,13 @@
 
 <h3> 🛠 &nbsp;My fun</h3>
 
-- 💻 &nbsp;
-  ![R (Statistics)](https://img.shields.io/badge/-R-ffffff?style=flat&logo=R&logoColor=276DC3)
+- ![R (Statistics)](https://img.shields.io/badge/-R-ffffff?style=flat&logo=R&logoColor=276DC3)
   ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown&logoColor=6398c7)
   ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=873dc4)
   ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)
   ![RStudio](https://img.shields.io/badge/-RStudio-ffffff?style=flat&logo=rstudio)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🌐 &nbsp; Learning:
+- Learning:
   ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
