@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/irwingss/irwingss/main/banner%20completo.png">
 
-<h1> Hi! I'm Irwing</h1>
+<h1> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h1>
+Hi! I'm Irwing
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
