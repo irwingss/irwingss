@@ -22,7 +22,7 @@
   ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=ebd700)
 <br/>
 
 <a href="https://github.com/irwingss">
