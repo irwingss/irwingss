@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/irwingss/irwingss/main/banner%20completo.png">
+<img src="https://github.com/irwingss/irwingss/raw/main/banner%20completo%202022.png">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
