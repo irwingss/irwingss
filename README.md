@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="https://github.com/irwingss/irwingss/raw/main/banner%20completo%202022.png" alt="Logo" width="50%" height="50%"><p/>
+<img src="https://github.com/irwingss/irwingss/raw/main/banner%20completo%202022.png" alt="Logo" width="50%" height="50%" class="centerImage">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -43,4 +43,10 @@
 <a href="mailto:isaldanau@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-isaldanau@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
- 
+<style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
