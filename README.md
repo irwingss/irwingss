@@ -1,5 +1,7 @@
 
-<center><img src="https://github.com/irwingss/irwingss/raw/main/banner%20completo%202022.png" alt="Logo" width="50%" height="50%"></center>
+<p align="center">
+  <img src="https://github.com/irwingss/irwingss/raw/main/banner%20completo%202022.png" alt="Logo" width="50%" height="50%">
+</p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
