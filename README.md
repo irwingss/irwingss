@@ -11,7 +11,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Peruvian Biologist that loves programming things and analyze datasets statistically for research purposes.
-- 💼 &nbsp; Working in my online educational company. I'm the CEO of Instituto de Ciencias Antonio Brack.
+- 💼 &nbsp; Working in my online educational company. I'm the CEO ILICD and masterX.
 - ⭐️ &nbsp; Learning more about ML Algorithms and Artificial Intelligence in Ecoinformatics applications.
 - ✍️ &nbsp; Applying for my postgraduate studies abroad.
 
