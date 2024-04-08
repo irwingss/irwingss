@@ -9,9 +9,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Peruvian Biologist that loves programming things and analyze datasets statistically for research purposes.
-- 💼 &nbsp; Working in my online educational company. I'm the CEO of the ILICD and the masterX e-learning plataform.
-- ⭐️ &nbsp; Learning more about ML Algorithms and Artificial Intelligence in Ecoinformatics applications.
+- 🎓 &nbsp; Peruvian Biologist who loves programming and doing things with statistics and ML.
+- 💼 &nbsp; I'm the co-founder of [masterX](https://masterx.academy/), the learning platform for Latin American scientists and researchers in STEM.  
+- ⭐️ &nbsp; Learning MLOps (as the theory states: 25% DevOps, 25% DataOps, 25% Modeling, and 25% business).
 - ✍️ &nbsp; Applying for my postgraduate studies abroad.
 
 <h3> 🛠 &nbsp;My fun</h3>
