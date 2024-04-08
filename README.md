@@ -47,7 +47,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irwingss&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwingss&theme=react&layout=compact&langs_count=8" />
 </a>
-Typing with [DemoLab](https://readme-typing-svg.demolab.com/demo/)
+<br>
+<p><span style="font-size:6px;">Typing with [DemoLab](https://readme-typing-svg.demolab.com/demo/)</span></p>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Let's Stay in Touch</h3>
