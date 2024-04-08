@@ -16,7 +16,7 @@
 
 <h3> 🛠 &nbsp;My fun</h3>
 
-- 
+- Enjoying:
   ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
   ![R (Statistics)](https://img.shields.io/badge/-R-ffffff?style=flat&logo=R&logoColor=276DC3)
   ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)
