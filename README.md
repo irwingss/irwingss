@@ -17,14 +17,13 @@
 <h3> 🛠 &nbsp;My fun</h3>
 
 - Enjoying:
-  ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)
-  ![R (Statistics)](https://img.shields.io/badge/-R-ffffff?style=flat&logo=R&logoColor=276DC3)
-  ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)
-  ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown&logoColor=6398c7)
-  ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=873dc4)
-  ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)
-  ![RStudio](https://img.shields.io/badge/-RStudio-ffffff?style=flat&logo=rstudio)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -40,7 +39,7 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=ebd700)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br/>
 
 <a href="https://github.com/irwingss">
