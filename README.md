@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/irwingss/irwingss/raw/main/banner%20completo%202022.png" alt="Logo" width="50%" height="50%">
+  <img src="https://masterx.academy/wp-content/uploads/2023/05/logo-blanco-350px.svg" alt="Logo" width="50%" height="50%">
 </p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -19,7 +19,8 @@
 
 - ![R (Statistics)](https://img.shields.io/badge/-R-ffffff?style=flat&logo=R&logoColor=276DC3)
   ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown&logoColor=6398c7)
-  ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=873dc4)
+  ![GitHub]
+(https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=873dc4)
   ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)
   ![RStudio](https://img.shields.io/badge/-RStudio-ffffff?style=flat&logo=rstudio)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)
