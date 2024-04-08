@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://masterx.academy/wp-content/uploads/2023/05/logo-blanco-350px.svg" alt="Logo" width="50%" height="50%">
+  <img src="https://raw.githubusercontent.com/irwingss/ArchivosCuestionarios/main/Logo%20oscuro.png" alt="Logo" width="50%" height="50%">
 </p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
